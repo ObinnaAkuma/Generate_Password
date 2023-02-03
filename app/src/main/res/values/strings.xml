@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Generate Password</string>
+    <string name="input_password_length">Input Password Length</string>
+    <string name="secure_a_unique_password_below">Secure a unique password below</string>
+    <string name="welcome">Welcome!</string>
+    <string name="password_number">Password Number</string>
+    <string name="password">Password:</string>
+    <string name="generate">Generate</string>
+</resources>
